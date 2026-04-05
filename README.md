@@ -89,11 +89,12 @@ All tasks were successfully completed using FFmpeg.
 
 ## 📂 Repository Contents
 
-- `images/` → Extracted frames 
-- `images_30fps/` → Frames at 30 FPS 
-- `output2.mp4` → Reconstructed video
-- `audio_1min.mp3` → Trimmed audio
-- `final_video.mp4` → Final output video
+- `Task-01/` → Extracted frames and Video input  [Task-01]
+- `video2.mp4.mp4` → Input Video of task-2  [Task-02]
+- `output2.mp4` → Reconstructed video  [Task-02]
+- `music.mp3.mp3` → Input audio  [Task-03]
+- `final_video (1).mp4` → Final output video  [Task-03]
+- `Week-02` → Terminal screenshot, input and output images  [Week-02, Tasks-1,2,3]
 
 ---
 
