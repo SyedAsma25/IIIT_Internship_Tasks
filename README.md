@@ -102,3 +102,29 @@ All tasks were successfully completed using FFmpeg.
 - YouTube (Video Sources)
 - Pixabay (Audio Source)
 - FFmpeg Documentation
+
+---
+
+## 📌 Week 2 - Object Detection using YOLO
+
+### 🔧 Task Overview:
+- Created Python virtual environment using venv
+- Installed Ultralytics package
+- Ran object detection using pretrained YOLO model
+
+### 💻 Commands Used:
+```bash
+python -m venv venv
+venv\Scripts\activate
+pip install -U ultralytics
+yolo predict model=yolov8n.pt source='https://ultralytics.com/images/bus.jpg
+```
+
+
+### 📊 Output:
+- Detected objects: persons, bus, stop sign
+- Output saved in:
+  runs/detect/predict/
+
+### 🖼️ Sample Output:
+![Detection](runs/detect/predict/bus.jpg)
